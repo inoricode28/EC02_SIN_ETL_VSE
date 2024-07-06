@@ -1,0 +1,31 @@
+¿Que campos contendria la tabla hechos y que solucionaria?
+
+La tabla de hechos generalmente contiene métricas numéricas y claves que se refieren a las dimensiones. Para esta tabla de hechos, podemos considerar algunos campos comunes como ventas, cantidad, etc.
+
+Campos de la Tabla de Hechos:
+IDPAIS (Clave foránea a la dimensión País)
+IDPRODUCTO (Clave foránea a la dimensión Producto)
+IDTIEMPO (Clave foránea a la dimensión Tiempo)
+CANTIDAD_VENDIDA (Número de unidades vendidas)
+TOTAL_VENTA (Monto total de la venta)
+La tabla de hechos podría verse así:
+
+IDPAIS	IDPRODUCTO	IDTIEMPO	CANTIDAD_VENDIDA	TOTAL_VENTA
+1	10	202401	100	5000
+2	11	202402	200	10000
+¿Qué Soluciona la Tabla de Hechos?
+La tabla de hechos soluciona la necesidad de analizar las métricas de negocio (como ventas y cantidades vendidas) en función de diferentes dimensiones (como país, producto y tiempo). Esto permite:
+
+Análisis de Ventas:
+
+Cuántos productos se vendieron en un período de tiempo específico.
+Cuánto se generó en ventas por país y por producto.
+Comparación de ventas entre diferentes países, productos y períodos de tiempo.
+Informes y Dashboards:
+
+Generar informes detallados que muestran el rendimiento de las ventas.
+Crear dashboards interactivos para visualizar tendencias y patrones.
+Toma de Decisiones:
+
+Proporcionar datos precisos para tomar decisiones informadas sobre inventarios, estrategias de marketing, y otras iniciativas empresariales.
+Espero que esto te ayude a resolver tu pregunta del examen. Si tienes alguna otra duda o necesitas más detalles, házmelo saber.
