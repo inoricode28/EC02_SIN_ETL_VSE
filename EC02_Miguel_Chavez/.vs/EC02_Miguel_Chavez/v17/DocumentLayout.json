@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\GIT_PROYECT_NEW\\EC02_SIN_ETL_VSE\\EC02_Miguel_Chavez\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A49F330-3438-4984-A3A3-7B396B226029}|EC02_Miguel_Chavez\\EC02_Miguel_Chavez.dtproj|D:\\GIT_PROYECT_NEW\\EC02_SIN_ETL_VSE\\EC02_Miguel_Chavez\\EC02_Miguel_Chavez\\Package.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
-      "RelativeMoniker": "D:0:0:{7A49F330-3438-4984-A3A3-7B396B226029}|EC02_Miguel_Chavez\\EC02_Miguel_Chavez.dtproj|solutionrelative:EC02_Miguel_Chavez\\Package.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+      "AbsoluteMoniker": "D:0:0:{7A49F330-3438-4984-A3A3-7B396B226029}|EC02_Miguel_Chavez\\EC02_Miguel_Chavez.dtproj|D:\\GIT_PROYECT_NEW\\EC02_SIN_ETL_VSE\\EC02_Miguel_Chavez\\EC02_Miguel_Chavez\\Conexion 1.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{7A49F330-3438-4984-A3A3-7B396B226029}|EC02_Miguel_Chavez\\EC02_Miguel_Chavez.dtproj|solutionrelative:EC02_Miguel_Chavez\\Conexion 1.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A49F330-3438-4984-A3A3-7B396B226029}|EC02_Miguel_Chavez\\EC02_Miguel_Chavez.dtproj|D:\\GIT_PROYECT_NEW\\EC02_SIN_ETL_VSE\\EC02_Miguel_Chavez\\EC02_Miguel_Chavez\\IMP_DataMaster.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{7A49F330-3438-4984-A3A3-7B396B226029}|EC02_Miguel_Chavez\\EC02_Miguel_Chavez.dtproj|solutionrelative:EC02_Miguel_Chavez\\IMP_DataMaster.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A49F330-3438-4984-A3A3-7B396B226029}|EC02_Miguel_Chavez\\EC02_Miguel_Chavez.dtproj|D:\\GIT_PROYECT_NEW\\EC02_SIN_ETL_VSE\\EC02_Miguel_Chavez\\EC02_Miguel_Chavez\\IMPDimenciones.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{7A49F330-3438-4984-A3A3-7B396B226029}|EC02_Miguel_Chavez\\EC02_Miguel_Chavez.dtproj|solutionrelative:EC02_Miguel_Chavez\\IMPDimenciones.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMPDimenciones.dtsx [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\GIT_PROYECT_NEW\\EC02_SIN_ETL_VSE\\EC02_Miguel_Chavez\\EC02_Miguel_Chavez\\IMPDimenciones.dtsx",
+              "RelativeDocumentMoniker": "EC02_Miguel_Chavez\\IMPDimenciones.dtsx",
+              "ToolTip": "D:\\GIT_PROYECT_NEW\\EC02_SIN_ETL_VSE\\EC02_Miguel_Chavez\\EC02_Miguel_Chavez\\IMPDimenciones.dtsx [Dise\u00F1o]",
+              "RelativeToolTip": "EC02_Miguel_Chavez\\IMPDimenciones.dtsx [Dise\u00F1o]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-07-06T19:18:01.275Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMP_DataMaster.dtsx [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\GIT_PROYECT_NEW\\EC02_SIN_ETL_VSE\\EC02_Miguel_Chavez\\EC02_Miguel_Chavez\\IMP_DataMaster.dtsx",
+              "RelativeDocumentMoniker": "EC02_Miguel_Chavez\\IMP_DataMaster.dtsx",
+              "ToolTip": "D:\\GIT_PROYECT_NEW\\EC02_SIN_ETL_VSE\\EC02_Miguel_Chavez\\EC02_Miguel_Chavez\\IMP_DataMaster.dtsx [Dise\u00F1o]",
+              "RelativeToolTip": "EC02_Miguel_Chavez\\IMP_DataMaster.dtsx [Dise\u00F1o]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-07-06T18:02:39.481Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Package.dtsx",
-              "DocumentMoniker": "D:\\GIT_PROYECT_NEW\\EC02_SIN_ETL_VSE\\EC02_Miguel_Chavez\\EC02_Miguel_Chavez\\Package.dtsx",
-              "RelativeDocumentMoniker": "EC02_Miguel_Chavez\\Package.dtsx",
-              "ToolTip": "D:\\GIT_PROYECT_NEW\\EC02_SIN_ETL_VSE\\EC02_Miguel_Chavez\\EC02_Miguel_Chavez\\Package.dtsx",
-              "RelativeToolTip": "EC02_Miguel_Chavez\\Package.dtsx",
+              "Title": "Conexion 1.dtsx [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\GIT_PROYECT_NEW\\EC02_SIN_ETL_VSE\\EC02_Miguel_Chavez\\EC02_Miguel_Chavez\\Conexion 1.dtsx",
+              "RelativeDocumentMoniker": "EC02_Miguel_Chavez\\Conexion 1.dtsx",
+              "ToolTip": "D:\\GIT_PROYECT_NEW\\EC02_SIN_ETL_VSE\\EC02_Miguel_Chavez\\EC02_Miguel_Chavez\\Conexion 1.dtsx [Dise\u00F1o]",
+              "RelativeToolTip": "EC02_Miguel_Chavez\\Conexion 1.dtsx [Dise\u00F1o]",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
               "WhenOpened": "2024-07-06T12:54:41.144Z",
-              "EditorCaption": ""
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

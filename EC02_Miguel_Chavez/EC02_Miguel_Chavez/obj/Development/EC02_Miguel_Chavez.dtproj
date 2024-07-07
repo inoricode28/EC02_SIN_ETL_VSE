@@ -26,7 +26,7 @@
           <SSIS:Property SSIS:Name="CreatorComputerName">DESKTOP-NDTD5QA</SSIS:Property>
           <SSIS:Property SSIS:Name="Description">
           </SSIS:Property>
-          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAUAfgK+4UL06tYGoqKtssNwAAAAACAAAAAAAQZgAAAAEAACAAAACnl4+g5N8gy/39jCHvssk/WQ2YbiiWUUKUk3tFrDDAgwAAAAAOgAAAAAIAACAAAADEQxsHicZK3KuIgX6pzSiD6FQvcQFGFxP5aPQN4uaBt5AAAABEoyiVQk9lpHBiVyzehnnwgh3Kb3WuJBBkAy65v15+GgAjSqPH0UTOKjdb7SkXGnZRjIsWu7jDvkOu0tZdcxktzFg6NSXE9MjUzqVEes2HOLrvnKTuxC9PlFWkf3YcwsvcHQa+RQIxrXHOhTdeJK1RWENKem57zyYLQCkTYmSg3ipmXhB1cydCrLrH7VcJeTpAAAAAkzHZYLWOBIR8p46fZ6vyNVf6TvCCE3zIBma1OHo1pSgOeX5s5oDcSir5dS31UgkUXYEkJjSojzTjyWBxobYZkA==</SSIS:Property>
+          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAUAfgK+4UL06tYGoqKtssNwAAAAACAAAAAAAQZgAAAAEAACAAAAAdSUTR2FjNPBG+dS8PUPlGJlMUGMLDuCtQTSGvroEb5gAAAAAOgAAAAAIAACAAAABwN8x3xGFgWc1XliHUwvOQ5zJs5mdOiNHbxl1gYEyzFJAAAADT/mBCTlZa4TlCMmaBanTro+jgiM/8PUNRvd3DwDcU6IueoQokJAhgYyQz+v8QU99dT3Biz7bwd65xiAjltGFQcrhTfWALxhohrAMcz36itgMXDEocrqB1z+9EN7MOlQ21Uo/sBEYLbisSkYh9x5PK46kZDIN6+1qpdzxGSOejeQONG0FqraZ+vAMtBYte+tdAAAAAZft4TEvVZ2WSDrXPFtTtyrnjSTYLb6NZzaWLxyciL8jdi6MYCgpctj2oaAzSZLlqs1JcypKaO9RH3M+IIK1EnQ==</SSIS:Property>
           <SSIS:Property SSIS:Name="FormatVersion">1</SSIS:Property>
         </SSIS:Properties>
         <SSIS:Packages>
@@ -215,7 +215,7 @@
                 <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                 <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                 <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.16.0;Data Source=D:\GIT_PROYECT_NEW\Inteligencia de negocios Examenes\DATAEVALUACIÓ2N.xlsx;Extended Properties="Excel 12.0 XML;HDR=YES";</SSIS:Property>
+                <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.16.0;Data Source=D:\GIT_PROYECT_NEW\Inteligencia de negocios Examenes\DATAEVALUACIÓ2N.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
                 <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
               </SSIS:Properties>
             </SSIS:Parameter>
@@ -496,10 +496,10 @@
                 <SSIS:Property SSIS:Name="Name">Package1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionBuild">16</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionBuild">19</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionComments">
                 </SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionGUID">{8A93EB14-4750-46B9-AFF7-68F02503B225}</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionGUID">{8921CBF3-6288-45D1-A52A-A6C6E925565D}</SSIS:Property>
                 <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
                 <SSIS:Property SSIS:Name="Description">
                 </SSIS:Property>
@@ -513,10 +513,10 @@
                 <SSIS:Property SSIS:Name="Name">Package1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionBuild">10</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionBuild">30</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionComments">
                 </SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionGUID">{A8BEE613-4962-4C39-9A00-ED7633CB0692}</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionGUID">{5E43D087-E826-4D8C-926F-807E9265CAB0}</SSIS:Property>
                 <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
                 <SSIS:Property SSIS:Name="Description">
                 </SSIS:Property>
